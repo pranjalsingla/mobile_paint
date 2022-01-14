@@ -1,0 +1,13 @@
+body{
+    background-image: url("paint.webp");
+}
+h1{
+    color:darkmagenta;
+    font-size: 42px;
+}
+#my_canvas{
+    border-width: 13px;
+    border-color: deeppink;
+    border-style: ridge;
+    background-color: white;
+}
